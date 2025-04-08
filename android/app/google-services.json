@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "633863605368",
+    "firebase_url": "https://abcde-a83e6-default-rtdb.firebaseio.com",
+    "project_id": "abcde-a83e6",
+    "storage_bucket": "abcde-a83e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633863605368:android:1f6d9138398f27a8b3f18d",
+        "android_client_info": {
+          "package_name": "com.mycompany.pushpakaRides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633863605368-5g7iis0i6v9d7g15c9q1v2s17tievc4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pushpakaRides",
+            "certificate_hash": "895d90f2edd6b4b364e05016081139f94e3a3db6"
+          }
+        },
+        {
+          "client_id": "633863605368-bl2qd5tvgucjsmgk2geqtcg50tcdvn92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pushpakaRides",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "633863605368-8loq0am5ko63fdu84vl9br22dj5fjfci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswulX51YZjqneKfZYHy6jSdz_rWnIDrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633863605368-8loq0am5ko63fdu84vl9br22dj5fjfci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633863605368-73t6bbnstnjef8nhufddb1o7f1afbvd7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pushpakaRides"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
